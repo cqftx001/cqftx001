@@ -29,6 +29,7 @@ Seeking a **Software Engineering Internship** for Summer 2027.
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Alibaba Cloud OSS](https://img.shields.io/badge/Alibaba_Cloud-OSS-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
 
 **Languages & Frontend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
